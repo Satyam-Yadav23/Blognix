@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Blognix
 
 A simple blog application built with Node.js, Express, MongoDB, EJS, and Bootstrap.
@@ -102,6 +101,3 @@ http://localhost:3000
 ## License
 
 This project is for educational and personal use.
-=======
-# Blognix
->>>>>>> 2a3928e3e125cf66b02409a5e72adbaf62245e6a
